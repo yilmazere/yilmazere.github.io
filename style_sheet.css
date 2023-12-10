@@ -3,7 +3,7 @@
 font-family: 'TT Norms Pro';
 font-style: normal;
 font-weight: 400;
-src: url('https://yilmazere.github.io/TTNorms-Regular.otf.ttf') format('truetype');
+src: url('https://yilmazere.github.io/TTNorms-Regular.otf') format('truetype');
 }
 
 
@@ -12,7 +12,7 @@ src: url('https://yilmazere.github.io/TTNorms-Regular.otf.ttf') format('truetype
 font-family: 'TT Norms Pro';
 font-style: italic;
 font-weight: 400;
-src: url('https://yilmazere.github.io/TTNorms-Regular.otf.ttf') format('truetype');
+src: url('https://yilmazere.github.io/TTNorms-Regular.otf') format('truetype');
 }
 
 /* TT Norms Pro Bold */
@@ -20,7 +20,7 @@ src: url('https://yilmazere.github.io/TTNorms-Regular.otf.ttf') format('truetype
 font-family: 'TT Norms Pro';
 font-style: normal;
 font-weight: 700;
-src: url('https://yilmazere.github.io/TTNorms-Regular.otf.ttf') format('truetype');
+src: url('https://yilmazere.github.io/TTNorms-Regular.otf') format('truetype');
 }
 
 /* TT Norms Pro Bold Italic */
@@ -28,5 +28,5 @@ src: url('https://yilmazere.github.io/TTNorms-Regular.otf.ttf') format('truetype
 font-family: 'TT Norms Pro';
 font-style: italic;
 font-weight: 700;
-src: url('https://yilmazere.github.io/TTNorms-Regular.otf.ttf') format('truetype');
+src: url('https://yilmazere.github.io/TTNorms-Regular.otf') format('truetype');
 }
