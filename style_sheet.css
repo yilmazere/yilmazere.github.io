@@ -4,7 +4,7 @@ font-family: 'TT Norms Pro';
 font-style: normal;
 font-weight: 400;
 font-display: swap;
-src: url('https://yilmazere.github.io.ttf') format('truetype');
+src: url('https://yilmazere.github.io/blob/main/TTNorms-Black.ttf') format('truetype');
 }
 
 /* TT Norms Pro Italic */
@@ -13,7 +13,7 @@ font-family: 'TT Norms Pro';
 font-style: italic;
 font-weight: 400;
 font-display: swap;
-src: url('https://yilmazere.github.io.ttf') format('truetype');
+src: url('https://yilmazere.github.io/blob/main/TTNorms-Black.ttf') format('truetype');
 }
 
 /* TT Norms Pro Bold */
@@ -22,7 +22,7 @@ font-family: 'TT Norms Pro';
 font-style: normal;
 font-weight: 700;
 font-display: swap;
-src: url('https://yilmazere.github.io.ttf') format('truetype');
+src: url('https://yilmazere.github.io/blob/main/TTNorms-Black.ttf') format('truetype');
 }
 
 /* TT Norms Pro Italic */
@@ -31,5 +31,5 @@ font-family: 'TT Norms Pro';
 font-style: italic;
 font-weight: 700;
 font-display: swap;
-src: url('https://yilmazere.github.io.ttf') format('truetype');
+src: url('https://yilmazere.github.io/blob/main/TTNorms-Black.ttf') format('truetype');
 }
